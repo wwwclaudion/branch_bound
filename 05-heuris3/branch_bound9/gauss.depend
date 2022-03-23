@@ -1,0 +1,1357 @@
+# depslib dependency file v1.0
+1557524738 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss\gauss.h
+	<stdbool.h>
+
+1557524824 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1557524738 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2\gauss.h
+	<stdbool.h>
+
+1557535870 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1557535870 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1c\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1c\gauss.h
+	<stdbool.h>
+
+1557626340 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557535870 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1d\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1d\gauss.h
+	<stdbool.h>
+
+1557626862 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557626862 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2b\gauss.h
+	<stdbool.h>
+
+1557626862 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2c\gauss.h
+	<stdbool.h>
+
+1558100141 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\gauss2c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1558099822 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\gauss2c\gauss.h
+	<stdbool.h>
+
+1558470970 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex1\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1558469796 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex1\gauss.h
+	<stdbool.h>
+
+1558360834 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1558471932 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1558469796 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex2\gauss.h
+	<stdbool.h>
+
+1558642244 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex2\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1558642473 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex_teste\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1558469796 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex_teste\gauss.h
+	<stdbool.h>
+
+1559163010 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1558469796 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex3\gauss.h
+	<stdbool.h>
+
+1559164373 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex3\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1559163010 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1558469796 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex4\gauss.h
+	<stdbool.h>
+
+1559584203 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex4\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1559584203 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\simplex4\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1558469796 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\simplex4\gauss.h
+	<stdbool.h>
+
+1559163010 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\simplex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-2\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586442231 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-2\gauss.h
+	<stdbool.h>
+
+1586442021 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586442661 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-2\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-3\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586444379 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-3\gauss.h
+	<stdbool.h>
+
+1586444379 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-3\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-4\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586444379 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-4\gauss.h
+	<stdbool.h>
+
+1586444701 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586446669 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-5\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586444379 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-5\gauss.h
+	<stdbool.h>
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-5\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-5-1\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586444379 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-5-1\gauss.h
+	<stdbool.h>
+
+1586454576 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-5-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586453948 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-5-1\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586455068 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-5-1 (origina 3-7)\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586444379 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-5-1 (origina 3-7)\gauss.h
+	<stdbool.h>
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-5-1 (origina 3-7)\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586454576 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-5-1 (origina 3-7)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586455068 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-7\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586444379 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-7\gauss.h
+	<stdbool.h>
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-7\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586456449 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-8\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586444379 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-8\gauss.h
+	<stdbool.h>
+
+1586456449 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586456529 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-8\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586458518 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-10\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586444379 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-10\gauss.h
+	<stdbool.h>
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-10\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586458518 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-11\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586444379 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-11\gauss.h
+	<stdbool.h>
+
+1586458518 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586458745 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-11\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-12\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586444379 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-12\gauss.h
+	<stdbool.h>
+
+1586458518 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586459382 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-12\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586607277 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-13\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586444379 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-13\gauss.h
+	<stdbool.h>
+
+1586370009 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-13\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586607127 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586620354 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-14\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586612443 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-14\gauss.h
+	<stdbool.h>
+
+1586612264 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-14\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586617649 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586620870 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-16\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586612443 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-16\gauss.h
+	<stdbool.h>
+
+1586617649 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586622653 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-16\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586620870 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-17\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586625800 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-17\gauss.h
+	<stdbool.h>
+
+1586617649 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586620870 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-18\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586625800 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-18\gauss.h
+	<stdbool.h>
+
+1586628288 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-18\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586620870 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-19\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586625800 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-19\gauss.h
+	<stdbool.h>
+
+1586628288 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586620870 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-20\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586625800 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-20\gauss.h
+	<stdbool.h>
+
+1586628288 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586630241 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-20\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586620870 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-21\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586625800 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-21\gauss.h
+	<stdbool.h>
+
+1586631472 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586620870 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-22\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586625800 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-22\gauss.h
+	<stdbool.h>
+
+1586631472 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\branch_bound3-22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586620870 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\01 - pilhas\branch_bound3-23 (a esquerda)\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586625800 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\01 - pilhas\branch_bound3-23 (a esquerda)\gauss.h
+	<stdbool.h>
+
+1586631472 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\01 - pilhas\branch_bound3-23 (a esquerda)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586620870 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\01 - pilhas\branch_bound3-23-1\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1586625800 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\01 - pilhas\branch_bound3-23-1\gauss.h
+	<stdbool.h>
+
+1586631472 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\01 - pilhas\branch_bound3-23-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1586620870 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\01 - pilhas\branch_bound3-24\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587662885 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\01 - pilhas\branch_bound3-24\gauss.h
+	<stdbool.h>
+
+1586631472 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\implementação\01 - pilhas\branch_bound3-24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1587662885 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-24-2 (a esquerda, funciona)\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587662885 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-24-2 (a esquerda, funciona)\gauss.h
+	<stdbool.h>
+
+1586620870 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-24-2 (a esquerda, funciona)\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587669554 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-24-2 (a esquerda, funciona)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1587671112 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-25\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587662885 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-25\gauss.h
+	<stdbool.h>
+
+1587671859 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-25\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1587671112 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-26\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587662885 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-26\gauss.h
+	<stdbool.h>
+
+1587672006 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-26\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587673115 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-27\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587662885 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-27\gauss.h
+	<stdbool.h>
+
+1587672315 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-27\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1587675631 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-27\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587673115 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-28\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587662885 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-28\gauss.h
+	<stdbool.h>
+
+1587676945 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-28\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1587681554 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-28\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587673115 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-29\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587688945 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-29\gauss.h
+	<stdbool.h>
+
+1587676945 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-29\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1587673115 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-30\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587824231 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-30\gauss.h
+	<stdbool.h>
+
+1587824231 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-30\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1587824567 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-31\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587824231 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-31\gauss.h
+	<stdbool.h>
+
+1587673115 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-31\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587825125 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-31\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1587824567 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-32\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587824231 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-32\gauss.h
+	<stdbool.h>
+
+1587673115 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-32\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587825125 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1588078481 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-33\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1588078481 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-33\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-33\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1587825125 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-33\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1588078481 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-34\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1588078481 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-34\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\01 - pilhas\branch_bound3-34\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\02 - filas\branch_bound3-34\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1588078481 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\02 - filas\branch_bound3-34\gauss.h
+	<stdbool.h>
+
+1588079757 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\02 - filas\branch_bound3-34\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1589466177 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\02 - filas\branch_bound3-34\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1589466177 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heur\branch_bound3-34\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1588078481 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heur\branch_bound3-34\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heur\branch_bound3-34\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1588079757 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heur\branch_bound3-34\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1589466177 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heuris1\branch_bound3-34\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1589498561 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heuris1\branch_bound3-34\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heuris1\branch_bound3-34\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1588079757 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heuris1\branch_bound3-34\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1589498558 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heuris1\branch_bound7-2\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1589498561 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heuris1\branch_bound7-2\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heuris1\branch_bound7-2\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1588079757 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\03 - heuris1\branch_bound7-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1589498558 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\05 - heuris3\branch_bound7-2\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1590250931 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\05 - heuris3\branch_bound7-2\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\05 - heuris3\branch_bound7-2\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1588079757 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes\05 - heuris3\branch_bound7-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+
+1590250952 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes3\05-heuris3\branch_bound9\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1590250931 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes3\05-heuris3\branch_bound9\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes3\05-heuris3\branch_bound9\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1590676794 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes3\05-heuris3\branch_bound9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+	"time.h"
+
+1590250952 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes7\05-heuris3\branch_bound9\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1590250931 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes7\05-heuris3\branch_bound9\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes7\05-heuris3\branch_bound9\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1590250952 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes9\05-heuris3\branch_bound9\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1590250931 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes9\05-heuris3\branch_bound9\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes9\05-heuris3\branch_bound9\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1591051756 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes9\05-heuris3\branch_bound9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+	"time.h"
+
+1590250952 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes15\05-heuris3\branch_bound9\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1590250931 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes15\05-heuris3\branch_bound9\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes15\05-heuris3\branch_bound9\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1593699255 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes15\05-heuris3\branch_bound9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+	"time.h"
+
+1590250952 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes16\05-heuris3\branch_bound9\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1590250931 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes16\05-heuris3\branch_bound9\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes16\05-heuris3\branch_bound9\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1593710022 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes16\05-heuris3\branch_bound9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"gauss.h"
+	"time.h"
+
+1590250952 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes17\05-heuris3\branch_bound9\branch_bound.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
+1590250931 c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes17\05-heuris3\branch_bound9\gauss.h
+	<stdbool.h>
+
+1588036209 source:c:\users\usuário\documents\computação\unicentro\2020-1\tcc\testes17\05-heuris3\branch_bound9\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"gauss.h"
+
